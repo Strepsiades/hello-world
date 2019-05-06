@@ -4,4 +4,7 @@ Hi I'm new here~
 I edited this with vscode
 # change with vs code
 i changed this file
-# sfsdfsdfds
+
+# edit within a new branch in vscode
+I added a new branch using vscode and make this edit 
+
